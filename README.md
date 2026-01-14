@@ -1,5 +1,5 @@
 <h2 align="center">
-Decoupled Memory Selection for Multi-target Video Segmentation of SAM3
+SAM3-DMS: Decoupled Memory Selection for Multi-target Video Segmentation of SAM3
 </h2>
 <p align="center">
   <strong>Ruiqi Shen</strong><sup style="font-size: 0.7em;">1</sup>
