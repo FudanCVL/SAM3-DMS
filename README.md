@@ -50,6 +50,13 @@ need to be authenticated to download the checkpoints. You can do this by running
 the following [steps](https://huggingface.co/docs/huggingface_hub/en/quick-start#authentication)
 (e.g. `hf auth login` after generating an access token.)
 
+Please organize the downloaded checkpoint as follows:
+```
+├── sam3_ckpt/
+│   ├── sam3.pt
+│   └── ...
+```
+
 ## 🚀 Training and Inference
 We follow the same training and inference pipeline as SAM3. For detailed instructions, please see [Evaluation](https://github.com/facebookresearch/sam3/tree/main/sam3/eval), and [Training](https://github.com/facebookresearch/sam3/blob/main/README_TRAIN.md).
 

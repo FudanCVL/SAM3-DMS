@@ -17,7 +17,7 @@ else:
     device = torch.device("cpu")
 
 VIDEO_INPUT = input("Please enter the video folder path or mp4 file path: ")
-TEXT_EXPRESSION = input("Please enter the text expression (TEXT_EXPRESSION): ")
+TEXT_EXPRESSION = input("Please enter the text expression: ")
 OUTPUT_FOLDER = "output"
 
 print(f"Video Source: {VIDEO_INPUT} | Prompt: {TEXT_EXPRESSION}")
