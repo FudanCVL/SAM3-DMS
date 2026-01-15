@@ -14,6 +14,10 @@ SAM3-DMS: Decoupled Memory Selection for Multi-target Video Segmentation of SAM3
   <sup style="font-size: 0.7em;">2</sup>Shanghai University of Finance and Economics
 </p>
 
+<p align="center">
+  <a href="https://arxiv.org/abs/2601.09699"><img src="https://img.shields.io/badge/arXiv-2601.09699-b31b1b.svg" alt="arXiv"></a>
+</p>
+
 https://github.com/user-attachments/assets/a7f13819-c6f8-425e-9502-b2c7b6d97fc5
 
 ![Architecture](demo/fig2.jpg?raw=true)
