@@ -18,7 +18,10 @@ SAM3-DMS: Decoupled Memory Selection for Multi-target Video Segmentation of SAM3
   <a href="https://arxiv.org/abs/2601.09699"><img src="https://img.shields.io/badge/arXiv-2601.09699-b31b1b.svg" alt="arXiv"></a>
 </p>
 
-https://github.com/user-attachments/assets/a7f13819-c6f8-425e-9502-b2c7b6d97fc5
+
+https://github.com/user-attachments/assets/cd3dd821-1593-42ea-9f5e-020c0bdb2c51
+
+
 
 ![Architecture](demo/fig2.jpg?raw=true)
 
@@ -69,3 +72,14 @@ python interactive_demo.py
 Enter video path: # input the video (either mp4 or jpg folder)
 Enter text prompt: # input the prompt
 ```
+
+## 📄 Citation
+If you find our work useful in your research, please consider citing:
+```bibtex
+@article{shen2024sam3dms,
+  title={SAM3-DMS: Decoupled Memory Selection for Multi-target Video Segmentation of SAM3}, 
+  author={Ruiqi Shen and Chang Liu and Henghui Ding},
+  year={2026},
+  journal={arXiv preprint arXiv:2601.09699},
+}
+``` 
